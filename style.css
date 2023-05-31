@@ -1,0 +1,28 @@
+h1 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-style:italic;
+    font-weight:300
+}
+h4 {
+    font-style: oblique;
+}
+
+#camera {
+    width:360px;
+    height: 250px;
+    border:1px solid aqua
+}
+
+img {
+    width: 300px;
+    border: radius 10px;
+    padding: 80px;
+}
+
+img:hover {
+    width: 400px;
+}
+
+.column {
+    display:block;
+}
